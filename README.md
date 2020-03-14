@@ -1,5 +1,5 @@
 # react-porfolio
-This is the latest version of my porfolio page, created using React. This page was created for chpater 20 of the JHU fullstack web development bootcamp
+This is the latest version of my porfolio page, created using React. This page was created for lesson 20 of the JHU fullstack web development bootcamp
 
 ## technologies 
 

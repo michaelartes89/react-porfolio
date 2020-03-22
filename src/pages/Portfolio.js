@@ -47,10 +47,10 @@ function Portfolio() {
             </Col>
             <Col size="md-6">
               <Card
-              image={"https://michaelartes89.github.io/Model-Portfolio/assets/images/dayplannerpic.png"}
-              name={"Day Planner App (JHU class project)"}
-              github={<a href="https://github.com/michaelartes89/Project5-DayPlanner" target="_blank"> View Here</a>}
-              deployed={<a href="https://michaelartes89.github.io/Project5-DayPlanner/" target="_blank"> View Here Site</a>}
+              image={"https://michaelartes89.github.io/Model-Portfolio/assets/images/reactbooksearch.png"}
+              name={"React BookSearch (JHU class project)"}
+              github={<a href="https://github.com/michaelartes89/react-book-search-" target="_blank"> View Here</a>}
+              deployed={<a href="https://react-book-search-zen.herokuapp.com/" target="_blank"> View Here Site</a>}
             />
 
           </Col>
